@@ -31,11 +31,11 @@ body {
 .subheader {
   color: black;
   font-weight: 500;
-  
 }
 nav {
   box-shadow: 0 1px 8px rgba(0,0,0,0.3);
   
+  background-image: url('http://www.pixelstalk.net/wp-content/uploads/2016/04/Photos-manipulation-forest-nigth-full-of-stars-backgrounds.jpg');
 }
 nav ul li{
  text-align: center;
@@ -102,7 +102,6 @@ nav ul a img{
   max-width: 650px;
   height: 40px;
   position: fixed; 
-  
 }
 
 li {
@@ -197,4 +196,5 @@ side-nav li a::hover {
   color:rgba(0,0, 0, 0.54);
   margin-top:  -3px;
 }
+
 
